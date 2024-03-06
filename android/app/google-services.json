@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016013884900",
+    "project_id": "imagestoragefirebase-e215a",
+    "storage_bucket": "imagestoragefirebase-e215a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016013884900:android:c079295db5ec8538190bf1",
+        "android_client_info": {
+          "package_name": "com.example.imagestoragefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFgcZXntzQB_6HRnPdUw7Y6sETVwcy35Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
